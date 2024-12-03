@@ -15,7 +15,6 @@ var test string
 
 func main() {
 	parsedList := parseInput(input)
-	// parsedList1, parsedList2 := parseInput(test)
 
 	// result_part_1 := part1(parsedList)
 	result_part_2 := part2(parsedList)
